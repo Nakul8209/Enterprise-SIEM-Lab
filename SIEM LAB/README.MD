@@ -229,9 +229,4 @@ Unlike theoretical cybersecurity projects, this lab demonstrates:
 
 **This project represents a comprehensive foundation in enterprise cybersecurity monitoring, demonstrating both technical competency and professional problem-solving skills essential for security operations roles.**
 
-🔒 *Built with passion for cybersecurity and dedication to continuous learning*
 
-[
-[
-
-Sources
